@@ -3,7 +3,7 @@
     { "id": 6, "title": "json-server", "author": "lyc" }
   ],
   "comments": [
-    { "id": 1, "body": "some", "postId": 1 }
+    { "id": 6, "body": "some", "postId": 1 }
   ],
   "profile": { "name": "typicode" },
   "profile31": { "name": "typicode1" }
