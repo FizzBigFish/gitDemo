@@ -6,5 +6,6 @@
     { "id": 666, "body": "some", "postId": 666 }
   ],
   "profile": { "name": "typicode" },
-  "conflict":"Creating a new branch is quick and simple."
+  "conflict": "Creating a new branch is quick and simple.",
+  "haha": "showing"
 }
