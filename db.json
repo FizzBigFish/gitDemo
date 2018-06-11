@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": 6, "title": "json-server", "author": "lyc" }
+    { "id": 666, "title": "json-server", "author": "lyc" }
   ],
   "comments": [
-    { "id": 6, "body": "some", "postId": 6 }
+    { "id": 666, "body": "some", "postId": 666 }
   ],
   "profile": { "name": "typicode" },
   "profile31": { "name": "haha" }
